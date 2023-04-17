@@ -29,6 +29,7 @@ header nav ul li {
 
 header nav ul li:hover {
   transform: scale(1.2);
+  color: crimson;
 }
 
 body {
